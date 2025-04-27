@@ -4,11 +4,13 @@ This repository contains a machine learning solution for credit card fraud detec
 Credit card fraud detection is a critical application of machine learning in the financial security domain. This project tackles the problem of identifying fraudulent transactions in a dataset containing credit card transactions, where fraudulent cases are extremely rare (class imbalance problem).
 # Dataset
 The dataset contains credit card transactions with the following features:
-The link to the dataset is give -- https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
 Time: Seconds elapsed between each transaction and the first transaction
 V1-V28: PCA-transformed features (for confidentiality)
 Amount: Transaction amount
 Class: Target variable (1 for fraud, 0 for legitimate)
+
+The link to the dataset is give -- https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 # Features
 This fraud detection system includes:
